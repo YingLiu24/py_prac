@@ -34,3 +34,9 @@ import pandas as pd
 - step 3: 对结果排序
 - step 4: 输出结果
 
+```
+import xlrd
+from collections import Counter
+from operator import itemgetter
+```
+
